@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SOCIAL_NETWORK_DB", "SOCIAL_NETWORK_DB\SOCIAL_NETWORK_DB.ssmssqlproj", "{F7A2CD21-959F-4131-9BA0-67A7AFA19D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A2CD21-959F-4131-9BA0-67A7AFA19D2D}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
